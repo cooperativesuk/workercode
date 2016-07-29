@@ -6,5 +6,5 @@
 * [How to use this code](how_to_use_this_code.md)
 * [1st Principle: Voluntary and open membership](1st_principle_voluntary_and_open_membership.md)
 * [2nd Principle: Democratic member control](2nd_principle_democratic_member_control.md)
-* 3rd Principle: Member economic participation
+* [3rd Principle: Member economic participation](3rd_principle_member_economic_participation.md)
 
