@@ -9,4 +9,5 @@
 * [3rd Principle: Member economic participation](3rd_principle_member_economic_participation.md)
 * [4th Principle: Autonomy and independence](4th_principle_autonomy_and_independence.md)
 * [5th Principle: Education, training and information](5th_principle_education,_training_and_information.md)
+* 6th Principle: Co-operation amongst co-ops
 
