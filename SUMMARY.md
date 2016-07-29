@@ -10,4 +10,5 @@
 * [4th Principle: Autonomy and independence](4th_principle_autonomy_and_independence.md)
 * [5th Principle: Education, training and information](5th_principle_education,_training_and_information.md)
 * [6th Principle: Co-operation amongst co-ops](6th_principle_co-operation_amongst_co-ops.md)
+* 7th Principle: Concern for community
 
