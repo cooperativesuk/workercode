@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * [What is the worker co-operative code?](what_is_the_worker_co-operative_code.md)
 * [What is a worker co-operative?](what_is_a_worker_co-operative.md)
+* How to use this code
 
