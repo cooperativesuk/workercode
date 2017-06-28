@@ -6,6 +6,7 @@ Co‑operatives serve their members most effectively and strengthen the co-opera
 Principle 6 is the key to business success for co‑operatives, enabling us to ethically outperform the privately owned opposition.
 
 Your co-operative should:
+
 1 Network with co‑operatives in your locality and industry to share intelligence, understand each others’ business needs and goals, and support each other.
 
 2 Trade with other co-operatives whenever possible.
