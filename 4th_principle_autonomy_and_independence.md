@@ -10,4 +10,5 @@ Your co-operative should:
 2. Actively manage and assign responsibilities for your operations, personnel, marketing and other business functions.
 3. Understand and control risks, both internal and external, facing your co-operative.
 4. Build your capability to identify and take advantage of business opportunities.
-5. Invest in equipment, premises and technology sufficient to achieve
+5. Invest in equipment, premises and technology sufficient to achieve agreed working conditions, efficient operations and longer term development.
+6. Benchmark co-operative and business performance against recognised performance standards, including this Code of Governance.
